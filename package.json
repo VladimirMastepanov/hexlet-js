@@ -1,0 +1,12 @@
+{
+  "name": "firsthex",
+  "version": "1.0.0",
+  "tupe": "module",
+  "description": "The first project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Vladimir Mastepanov",
+  "license": "ISC"
+}
